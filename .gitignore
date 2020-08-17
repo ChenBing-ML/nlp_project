@@ -127,3 +127,39 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# model log  txt file,all size gt 6MB file
+*.csv
+*.txt
+*.xlsx
+*.zip
+*.rdf
+*.data-00000-of-00001
+*.bigram-char
+*.gz
+*.h5
+*.logs
+*.data-00000-of-00002
+*.data-*-of-*
+pretrained_model/
+xlsx_files/
+.git_bak/
+*.pb
+*.data
+*.weights
+*.pack
+*.ckpt
+temp_tf_pb_format_model/
+*.pth
+*.json
+*.PDF
+*.ttf
+*.pdf
+*.mg!
+*.png
+*.tsv
+*.log
+__MACOSX/
+
+
+
